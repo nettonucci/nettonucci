@@ -1,4 +1,4 @@
-# :man_technologist: Netto Nucci
+# Netto Nucci
 
 🎓 Formando em ciência da computação, atuo na área desde 2020, utilizo tecnologia JavaScript para meus desenvolvimentos, fiz vários cursos para formação de Dev FullStack, NodeJS para WebService Rest, ReactJS para aplicações Web e React Native para aplicativos mobile nativo. Desenvolvo aplicativos utilizando React Native em sua base, utilizando Redux para gerenciamento de estado, e a criação do servidor em NodeJS para WebService Rest, tudo hospedado em servidores AWS, com banco de dados em PostgreSQL, alocado em container com Docker.
 - Full Stack Developer
@@ -21,6 +21,5 @@
 
 ### Contact with me
  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johnnyfreire/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/JohnnyGrunger)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/johnsfreire/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-nucci-netto-082b68185/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/netto.nucci/)
