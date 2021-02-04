@@ -24,7 +24,7 @@
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 ![GitHub](http://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
 ![Expo](http://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=fff)
-![Homebrew](http://img.shields.io/badge/-Homebrew-FBB040?style=flat&logo=homebrew&logoColor=fff)
+![Homebrew](http://img.shields.io/badge/-Homebrew-FBB040?style=flat&logo=homebrew&logoColor=000)
 
 ## Plataformas
 ![Apple](http://img.shields.io/badge/-Apple-000000?style=flat&logo=apple&logoColor=fff)
