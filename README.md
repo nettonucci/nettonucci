@@ -21,6 +21,11 @@
 ![Insomnia](http://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 
+## Plataformas
+![Apple](http://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
+![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=000)
+![Web](http://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
+
 ## Design
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat&logo=adobe-XD&logoColor=ffffff)
 
