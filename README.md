@@ -4,7 +4,7 @@
 - Full Stack Developer
 
 ## Technologies and tools
-[![NodeJS](https://img.shields.io/badge/-Dart-0d91a3?style=flat&&logo=dart)](https://dart.dev/)
+![NodeJS](https://img.shields.io/badge/-Node.JS-339933?style=flat&&logo=Node.js&logoColor=white)]
 ![React Native](https://img.shields.io/badge/-React%20Native-0d91a3?style=flat&&logo=react)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-0d91a3?style=flat&&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=ffffff)
