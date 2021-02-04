@@ -17,17 +17,20 @@
 ![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=000)
 ![Styled-Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=000)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)
  
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Insomnia](http://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 ![GitHub](http://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
 ![Expo](http://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=fff)
+![Homebrew](http://img.shields.io/badge/-Homebrew-FBB040?style=flat&logo=homebrew&logoColor=fff)
 
 ## Plataformas
 ![Apple](http://img.shields.io/badge/-Apple-000000?style=flat&logo=apple&logoColor=fff)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=000)
-![Web](http://img.shields.io/badge/-Web-FCC624?style=flat&logo=linux&logoColor=000)
+![Web](http://img.shields.io/badge/-Web-FCC624?style=flat&)
+![Desktop](http://img.shields.io/badge/-Desktop-23E44D27?style=flat)
 
 ## Design
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat&logo=adobe-XD&logoColor=ffffff)
