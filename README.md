@@ -18,6 +18,7 @@
 ![Styled-Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=000)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=fff)
  
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Insomnia](http://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=ffffff)
