@@ -43,3 +43,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/netto.nucci/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5518982011300)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nettonucci@gmail.com)
+
+### Currículo 
+
+[![Currículo](https://img.shields.io/badge/-Currículo-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1hYMp03___Mu-USr9yOL2csmoYJSA-isf?usp=sharing)
