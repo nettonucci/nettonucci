@@ -17,6 +17,7 @@
 ![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=000)
  
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Insomnia](http://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=ffffff)
 
 ## Design
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat&logo=adobe-XD&logoColor=ffffff)
