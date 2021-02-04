@@ -18,7 +18,7 @@
  
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Insomnia](http://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=ffffff)
-![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=ffffff)
+![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 
 ## Design
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat&logo=adobe-XD&logoColor=ffffff)
