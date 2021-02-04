@@ -5,9 +5,9 @@
 
 ## Technologies and tools
 
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&&logo=reactlogoColor=ffffff)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&&logo=react&logoColor=ffffff)
 ![NodeJS](https://img.shields.io/badge/-Node.JS-339933?style=flat&&logo=Node.js&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&&logo=reactlogoColor=ffffff)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&&logo=react&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
