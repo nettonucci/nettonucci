@@ -12,8 +12,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![Php](https://img.shields.io/badge/-PHP-blue?style=flat&logo=php&logoColor=ffffff)
-[![Redux](https://img.shields.io/badge/-Redux-5dcede?style=flat&&logo=redux)](https://flutter.dev/)
+![Redux](https://img.shields.io/badge/-Redux-5dcede?style=flat&&logo=redux)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff)
+![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=000)
  
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
