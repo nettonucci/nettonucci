@@ -32,7 +32,8 @@
 ## Design
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat&logo=adobe-XD&logoColor=ffffff)
 
-### Contact with me
+### Contato
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-nucci-netto-082b68185/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/netto.nucci/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/jose-nucci-netto-082b68185/)
