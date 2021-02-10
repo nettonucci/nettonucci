@@ -1,6 +1,6 @@
 # Netto Nucci
 
-🎓 Formando em ciência da computação, atuo na área desde 2020, utilizo tecnologia JavaScript para meus desenvolvimentos, faço vários cursos para formação de Dev FullStack. NodeJS para WebService Rest, ReactJS para aplicações Web, React Native para aplicativos mobile nativo e Electron para desenvolvimento desktop. Desenvolvo aplicações utilizando ReactJS/React Native em sua base, utilizando Redux e Redux-Saga para gerenciamento de estado e solicitações assincronas, Styled-Components para folha de estilização, para React Native utilizo CLI e Expo, criação do servidor em NodeJS para WebService Rest, tudo hospedado em servidores AWS, com banco de dados em PostgreSQL, alocado em container com Docker.
+🎓 Formado em ciência da computação, atuo na área desde 2020, utilizo tecnologia JavaScript para meus desenvolvimentos, faço vários cursos para formação de Dev FullStack. NodeJS para WebService Rest, ReactJS para aplicações Web, React Native para aplicativos mobile nativo e Electron para desenvolvimento desktop. Desenvolvo aplicações utilizando ReactJS/React Native em sua base, utilizando Redux e Redux-Saga para gerenciamento de estado e solicitações assincronas, Styled-Components para folha de estilização, para React Native utilizo CLI e Expo, criação do servidor em NodeJS para WebService Rest, tudo hospedado em servidores AWS, com banco de dados em PostgreSQL, alocado em container com Docker.
 - Full Stack Developer
 
 ## Tecnologias & Ferramentas
