@@ -24,8 +24,11 @@ Banco de dados:
 - SQLite.
 
 Conhecimento em hospedagem AWS ec2.
+
 Utilizo metodologia ágil para a implementação dos projetos, como Scrum e Kanban.
-Conteinerização com Docker 
+
+Conteinerização com Docker.
+
 - Full Stack Developer
 
 ## Tecnologias & Ferramentas
