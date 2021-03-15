@@ -75,4 +75,3 @@ Conteinerização com Docker.
 ### Currículo 
 
 [![Currículo](https://img.shields.io/badge/-Currículo-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1hYMp03___Mu-USr9yOL2csmoYJSA-isf?usp=sharing)
-
