@@ -4,7 +4,6 @@
 
 Utilizo tecnologia JavaScript/TypeScript para os desenvolvimentos.
 - NodeJS para WebService Rest.
-- AdonisJS para WebService Rest.
 - ReactJS para aplicações Web.
 - React Native para aplicativos mobile nativo
 - Electron para desenvolvimento desktop.
@@ -15,6 +14,7 @@ Bibliotecas como:
 - Jest para automatizar e criar testes.
 - Styled-Components, CSS, MakeStyles para folha de estilização.
 - NestJS com GraphQL e TypeORM.
+- AdonisJS para WebService Rest.
 - Axios para requisição HTTP.
 - Expo.
 - Json para troca rápida de dados
