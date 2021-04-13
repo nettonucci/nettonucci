@@ -25,7 +25,8 @@ Banco de dados:
 - MongoDB.
 - SQLite.
 
-- Conhecimento em hospedagem AWS ec2.
+AWS
+- EC2.
 - Serverless lambda AWS.
 - Bucket s3.
 
