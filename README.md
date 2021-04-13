@@ -4,9 +4,11 @@
 
 Utilizo tecnologia JavaScript/TypeScript para os desenvolvimentos.
 - NodeJS para WebService Rest.
+- AdonisJS para WebService Rest.
 - ReactJS para aplicações Web.
 - React Native para aplicativos mobile nativo
 - Electron para desenvolvimento desktop.
+
 
 Bibliotecas como:
 - Redux e Redux-Saga para gerenciamento de estado e solicitações assíncronas.
@@ -23,9 +25,14 @@ Banco de dados:
 - MongoDB.
 - SQLite.
 
-Conhecimento em hospedagem AWS ec2.
+- Conhecimento em hospedagem AWS ec2.
+- Serverless lambda AWS.
+- Bucket s3.
 
-Utilizo metodologia ágil para a implementação dos projetos, como Scrum e Kanban.
+Utilizo metodologia ágil para a implementação dos projetos:
+- Scrum.
+- Kanban.
+- DevOps
 
 Conteinerização com Docker.
 
