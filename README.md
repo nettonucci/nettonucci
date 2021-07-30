@@ -9,7 +9,7 @@ Utilizo tecnologia JavaScript/TypeScript para os desenvolvimentos.
 - Electron para desenvolvimento desktop.
 
 
-Bibliotecas como:
+Bibliotecas e outros:
 - Redux e Redux-Saga para gerenciamento de estado e solicitações assíncronas.
 - Jest para automatizar e criar testes.
 - Styled-Components, CSS, MakeStyles para folha de estilização.
@@ -18,17 +18,20 @@ Bibliotecas como:
 - Axios para requisição HTTP.
 - Expo.
 - Json para troca rápida de dados
+- Apache Kafka
 
 Banco de dados:
 - MySQL.
 - PostgreSQL.
 - MongoDB.
 - SQLite.
+- Amazon DynamoDB
 
 AWS
 - EC2.
 - Serverless lambda AWS.
 - Bucket s3.
+- SQS Queue
 
 Utilizo metodologia ágil para a implementação dos projetos:
 - Scrum.
