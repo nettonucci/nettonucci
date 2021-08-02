@@ -1,6 +1,6 @@
 # Netto Nucci
 
-🎓 Formado em ciência da computação.
+🎓 Formado em Ciência da Computação.
 
 Utilizo tecnologia JavaScript/TypeScript para os desenvolvimentos.
 - NodeJS/AdonisJS para WebService Rest.
