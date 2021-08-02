@@ -19,6 +19,7 @@ Bibliotecas e outros:
 - Expo.
 - Json para troca rápida de dados
 - Apache Kafka
+- Selenium Web Browser
 
 Banco de dados:
 - MySQL.
