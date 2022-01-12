@@ -20,19 +20,31 @@ Bibliotecas e outros:
 - Json para troca rápida de dados
 - Apache Kafka
 - Selenium Web Browser
+- Joi
+- Superagent
+- Monorepo
 
 Banco de dados:
 - MySQL.
 - PostgreSQL.
 - MongoDB.
 - SQLite.
-- Amazon DynamoDB
 
 AWS
 - EC2.
 - Serverless lambda AWS.
 - Bucket s3.
 - SQS Queue
+- Amazon DynamoDB
+- Secrets Manager
+- API Gateway
+- CloudWatch
+- Simple Notification Service (SNS)
+
+Azure:
+ - CosmosDB
+ - Service Bus
+ - API Management
 
 Utilizo metodologia ágil para a implementação dos projetos:
 - Scrum.
