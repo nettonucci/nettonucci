@@ -54,6 +54,7 @@ Utilizo metodologia ágil para a implementação dos projetos:
 Conteinerização com Docker.
 
 - Full Stack Developer
+- Focado em Backend!
 
 ## Tecnologias & Ferramentas
 
