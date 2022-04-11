@@ -3,7 +3,7 @@
 🎓 Formado em Ciência da Computação.
 
 Utilizo tecnologia JavaScript/TypeScript para os desenvolvimentos.
-- NodeJS/AdonisJS para WebService Rest.
+- NodeJS/AdonisJS/NestJS para WebService Rest.
 - ReactJS para aplicações Web.
 - React Native para aplicativos mobile nativo
 - Electron para desenvolvimento desktop.
