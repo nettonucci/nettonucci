@@ -1,5 +1,8 @@
 # Netto Nucci
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/nettonucci/nettonucci/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
+
 🎓 Formado em Ciência da Computação.
 
 Utilizo tecnologia JavaScript/TypeScript para os desenvolvimentos.
